@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="my-cordova-plugin" version="1.0.0">
-    <name>My Cordova Plugin</name>
+    <name>my-cordova-plugin</name>
     <description></description>
     <keywords>plugin,cordova</keywords>
 
